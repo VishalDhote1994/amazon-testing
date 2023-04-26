@@ -1,0 +1,13 @@
+2023-04-26 16:03:08,889  INFO [main] amazonShopping:44 - Chrome browser opened successfully
+2023-04-26 16:03:09,049  INFO [main] amazonShopping:63 - Window maximized
+2023-04-26 16:03:13,789  INFO [main] amazonShopping:24 - Login Window is opened
+2023-04-26 16:03:14,750  INFO [main] amazonShopping:31 - Username entered successfully and clicked on continue
+2023-04-26 16:03:14,886  INFO [main] amazonShopping:34 - password entered successfully and clicked on continue
+2023-04-26 16:03:41,048  INFO [main] amazonShopping:43 - Clicked on Mobile Tab
+2023-04-26 16:03:46,120  INFO [main] amazonShopping:47 - clicked on Accessories
+2023-04-26 16:03:52,631  INFO [main] amazonShopping:50 - Clicked on AddToCart
+2023-04-26 16:03:52,780  INFO [main] amazonShopping:54 - Product is added to the cart
+2023-04-26 16:03:57,796  INFO [main] amazonShopping:61 - Items in Cart are 5
+2023-04-26 16:03:57,798  INFO [main] amazonShopping:70 - Total number of items in the cart are5
+2023-04-26 16:03:59,260  INFO [main] amazonShopping:90 - Logout Functionality successful
+2023-04-26 16:03:59,573  INFO [main] amazonShopping:77 - Browser quit successfully

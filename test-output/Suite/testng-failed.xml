@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="AmazonApp_Test(failed)">
+    <parameter name="browserName" value="chrome"/>
+    <classes>
+      <class name="com.amazonShoping.testClasses.TC_AmazonTests_001">
+        <methods>
+          <include name="nevigateToAccessories"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="logOut"/>
+        </methods>
+      </class> <!-- com.amazonShoping.testClasses.TC_AmazonTests_001 -->
+    </classes>
+  </test> <!-- AmazonApp_Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

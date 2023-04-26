@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+  <test name="AmazonApp_Test">
+	  <parameter name="browserName" value="chrome"></parameter>
+    <classes>
+      <class name="com.amazonShopping.testClasses.TC_AmazonTests_001"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
